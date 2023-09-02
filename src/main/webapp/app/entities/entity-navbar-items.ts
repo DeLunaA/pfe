@@ -12,8 +12,8 @@ export const EntityNavbarItems: NavbarItem[] = [
     translationKey: 'global.menu.entities.reclamation',
   },
   {
-    name: 'Courses',
-    route: '/courses',
-    translationKey: 'global.menu.entities.courses',
+    name: 'Cours',
+    route: '/cours',
+    translationKey: 'global.menu.entities.cours',
   },
 ];
