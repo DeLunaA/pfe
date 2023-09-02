@@ -1,15 +1,15 @@
 {
   "global": {
-    "title": "Sssssssss",
+    "title": "BrainByte",
     "browsehappy": "Vous utilisez un <strong>ancien</strong> navigateur. Veuillez <a href=\"http://browsehappy.com/?locale=fr\">mettre à jour votre navigateur</a> pour une meilleure expérience.",
     "menu": {
       "home": "Accueil",
       "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
       "entities": {
-        "main": "Entités",
+        "main": "",
         "demande": "Demande",
         "reclamation": "Reclamation",
-        "courses": "Courses",
+        "cours": "Cours",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {
@@ -50,9 +50,9 @@
     "messages": {
       "info": {
         "authenticated": {
-          "prefix": "Si vous voulez vous ",
+          "prefix": "Bienvenue sur BrainByte, où la gestion fluide rencontre l'éducation commerciale efficace. Notre plateforme a été conçue pour donner aux administrateurs et aux gestionnaires les moyens de fournir une formation de haute qualité à leurs équipes. Que vous dirigiez une petite entreprise ou une grande corporation, nos fonctionnalités administratives assurent que vos employés reçoivent la formation dont ils ont besoin pour exceller.",
           "link": "connecter",
-          "suffix": ", vous pouvez utiliser les comptes par défaut : <br/> - Administrateur (nom d'utilisateur=\"admin\" et mot de passe =\"admin\") <br/> - Utilisateur (nom d'utilisateur=\"user\" et mot de passe =\"user\")."
+          "suffix": "Aidez les employés à maîtriser rapidement leurs compétences grâce à des formations guidées : des programmes de formation interactifs qui intègrent des conseils d'experts à chaque étape de la formation. <br/> Grâce au partage des connaissances et à l'apprentissage continu, nous pouvons augmenter la productivité et continuer à fournir d'excellents services clients qui soutiennent nos objectifs de revenus."
         },
         "register": {
           "noaccount": "Vous n'avez pas encore de compte ?",

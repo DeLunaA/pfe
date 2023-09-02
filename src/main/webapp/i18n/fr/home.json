@@ -1,11 +1,10 @@
 {
   "home": {
-    "title": "Bienvenue, Java Hipster !",
-    "subtitle": "Ceci est votre page d'accueil",
+    "title": "Bienvenue sur BrainByte",
+    "subtitle": "Simplifiez la Gestion de la Formation Professionnelle",
     "logged": {
       "message": "Vous êtes connecté en tant que \"{{username}}\"."
     },
-    "question": "Si vous avez des questions à propos de JHipster :",
     "link": {
       "homepage": "Page d'accueil de JHipster",
       "stackoverflow": "JHipster sur Stack Overflow",

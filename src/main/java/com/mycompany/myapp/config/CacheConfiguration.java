@@ -40,6 +40,7 @@ public class CacheConfiguration {
             createCache(cm, com.mycompany.myapp.repository.UserRepository.USERS_BY_EMAIL_CACHE);
             createCache(cm, com.mycompany.myapp.domain.Demande.class.getName());
             createCache(cm, com.mycompany.myapp.domain.Reclamation.class.getName());
+            createCache(cm, com.mycompany.myapp.domain.Cours.class.getName());
             // jhipster-needle-ehcache-add-entry
         };
     }

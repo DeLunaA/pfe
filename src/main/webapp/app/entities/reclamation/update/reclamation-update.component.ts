@@ -42,7 +42,6 @@ export class ReclamationUpdateComponent implements OnInit {
       if (reclamation) {
         this.updateForm(reclamation);
       }
-
       this.loadRelationshipsOptions();
     });
   }

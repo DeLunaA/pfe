@@ -12,6 +12,7 @@ export class AuthInterceptor implements HttpInterceptor {
   intercept(request: HttpRequest<any>, next: HttpHandler): Observable<HttpEvent<any>> {
     const serverApiUrl = this.applicationConfigService.getEndpointFor('');
     if (!request.url || (request.url.startsWith('http') && !(serverApiUrl && request.url.startsWith(serverApiUrl)))) {
+      console.log('------------ skipping token add to ' + request.url);
       return next.handle(request);
     }
 

@@ -9,7 +9,7 @@
         "main": "Entities",
         "demande": "Demande",
         "reclamation": "Reclamation",
-        "courses": "Courses",
+        "cours": "Cours",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {

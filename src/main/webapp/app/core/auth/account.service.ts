@@ -82,6 +82,7 @@ export class AccountService {
     // previousState can be set in the authExpiredInterceptor and in the userRouteAccessService
     // if login is successful, go to stored previousState and clear previousState
     const previousUrl = this.stateStorageService.getUrl();
+    console.log(previousUrl);
     if (previousUrl) {
       this.stateStorageService.clearUrl();
       this.router.navigateByUrl(previousUrl);
